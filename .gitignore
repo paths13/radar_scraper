@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+
+# Personal data and email history
+contacts.csv
+sent_log.csv
+emails.txt
+prepared_emails/
+
+# Local data, logs and attachments
+*.csv
+*.txt
+*.pdf
+*.png
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
